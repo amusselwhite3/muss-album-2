@@ -1,20 +1,3134 @@
 [
-    {
-        "title": "Punisher",
-        "artist": "Phoebe Bridgers",
-        "genre": "Indie Rock",
-        "rating": 5,
-        "year": "2020",
-        "art": "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600",
-        "link": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-    },
-    {
-        "title": "The Diary",
-        "artist": "Scarface",
-        "genre": "Rap",
-        "rating": 4.5,
-        "year": "1994",
-        "art": "https://i.scdn.co/image/ab67616d0000b273602c9567392bbf640373e293",
-        "link": "https://open.spotify.com/album/2Z1lDWB2EfTUKV5ILxjdvu"
-    }
+  {
+    "year": 2024,
+    "title": "Tigers Blood",
+    "artist": "Waxahatchee",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/95/97/dc9597a1-3479-f780-8c51-bfe91236fa09/0045778786060.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "Purple Mountains",
+    "artist": "Purple Mountains",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/71/6c/55716cc7-aeb8-5b2d-f4f1-e8e6022e625e/781484068020.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "I Know I'm Funny Haha",
+    "artist": "Faye Webster",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/01/3c/9d013c85-64b8-f611-1a16-0653d5fde90a/656605040165.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/track/3V66T9O5aOycr8raWMpyLP?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "Manning Fireworks",
+    "artist": "MJ Lenderman",
+    "genre": "Alt Country",
+    "rating": 5,
+    "art": "https://i.scdn.co/image/ab67616d0000b27329344b4d83b6f0ac27562c2d",
+    "link": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+  },
+  {
+    "year": 2001,
+    "title": "Southern Rock Opera",
+    "artist": "Drive-By Truckers",
+    "genre": "Alt Country",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/89/33/2589338d-242d-94aa-232c-88e189d0c23d/00008817030821.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5k4bixfALfjxwQ6t9Mm6dz?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "Passage Du Desire",
+    "artist": "Sturgill Simpson",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/31/d1/c031d182-ace2-9343-c64f-02dcb72815e4/198391947636.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "Big Time",
+    "artist": "Angel Olsen",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/b4/95/09b4953f-6ff2-5501-61bc-9094a49e561a/31531.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Saint Cloud",
+    "artist": "Waxahatchee",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/71/d0/e871d03a-c226-4c11-a01f-411ada457a53/704_waxahatchee_saintcloud_3600.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M?autoplay=true"
+  },
+  {
+    "year": 2016,
+    "title": "A sailors Guide to Earth",
+    "artist": "Sturgill Simpson",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b3/3c/a8/b33ca8e7-6bce-048d-debf-213b1e14b96e/mzm.nictnqhm.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4?autoplay=true"
+  },
+  {
+    "year": 2014,
+    "title": "Metamodern Sounds in Country Music",
+    "artist": "Sturgill Simpson",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/54/f3/8254f3ab-44dd-7de1-bbee-149400de9ea7/886444551298.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "The Dirty South",
+    "artist": "Drive-By Truckers",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/b6/f8/85b6f83a-7e03-1562-093f-0e78234f7108/1803.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5EVo2jFs4JJ1gUbinbu65h?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "Car Wheels on a Gravel Road",
+    "artist": "Lucinda Williams",
+    "genre": "Alt Country",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/3a/55/7b3a5503-e015-2074-7aeb-c93c745b4cb7/06UMGIM05369.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Cuttin Grass Vol 1",
+    "artist": "Sturgill Simpson",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/19/58/d919580b-404d-a398-511f-9bef33b97037/195497084135.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "The Golden Crystal Kingdom",
+    "artist": "Vincent Neil Emerson",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/07/1a/78071a97-4479-d095-aec8-053dd788b1fd/196871337465.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/track/52igQbzMD2EoL8Ai1ZUmf1?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Live on Red Barn Radio I & II",
+    "artist": "Tyler Childers",
+    "genre": "Alt Country",
+    "rating": 4,
+    "art": "https://i.scdn.co/image/ab67616d0000b2739cbbbdd15ff65aaab9a611b0",
+    "link": "https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Goo",
+    "artist": "Sonic Youth",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/b5/df/ecb5dfa7-e50f-d44e-eef0-9a4c38abc76f/00602547570017.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "Songs of a Lost World",
+    "artist": "The Cure",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/25/d9/5b25d98e-3734-a7fd-c198-69ffd088d10f/24UMGIM94240.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Spiritual Cramp",
+    "artist": "Spiritual Cramp",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/17/6b/73176ba7-204a-7265-4cd0-3a7e9d1e214d/197189113819.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Ritual de lo Habitual",
+    "artist": "Jane's Addiction",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/a4/de/a4a4ded4-671c-1068-3e90-58a594335b3e/mzi.qldnftzh.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Flood",
+    "artist": "They Might Be Giants",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/c7/51/0ec7518d-d16c-5050-be47-151e8de12bd5/mzi.gpjneslv.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Set My Heart on Fire Immediately",
+    "artist": "Perfume Genius",
+    "genre": "Art Pop",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4c/35/8c/4c358ca7-492f-b9eb-30d5-e349dc497e67/191401154956.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "This is Happening",
+    "artist": "LCD Soundsystem",
+    "genre": "Electronic",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/70/e8/9a70e844-23d2-26d5-4dce-612e76da240c/5099964204352_1500x1500_300dpi.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "Cosmogramma",
+    "artist": "Flying Lotus",
+    "genre": "Electronic",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f8/3f/5f/f83f5f67-f8d6-626a-ae9a-3f16c5b0af5d/0801061019532.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/26yWpyWgFK6xuxi1UsLUFW?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "Feed The Animals",
+    "artist": "Girl Talk",
+    "genre": "Electronic",
+    "rating": 5,
+    "art": "https://i.scdn.co/image/ab67616d0000b2730192ca742faf3f8dffa36f6b",
+    "link": "https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "Sound of Silver",
+    "artist": "LCD Soundsystem",
+    "genre": "Electronic",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/fe/a5/fbfea51a-0130-d557-c1f4-9e5e98b7bab8/094638511359.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "Donuts",
+    "artist": "J Dilla",
+    "genre": "Electronic",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/d3/c5/63d3c537-ac30-86e7-8e69-8a03a5346209/792.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW?autoplay=true"
+  },
+  {
+    "year": 2000,
+    "title": "Since I Left You",
+    "artist": "The Avalanches",
+    "genre": "Electronic",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/38/47/dc3847df-0457-0c03-467c-cf4d1ac57896/19UMGIM71485.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Xompulse",
+    "artist": "Sal Dulu",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e7/ef/51/e7ef5103-17a9-da78-6a61-e501a9cc37f8/5059713229456_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/track/6avkn4fajNmtZBFI45F9LM?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "For Those I Love",
+    "artist": "For Those I Love",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/38/1a/48381aaf-6e3d-a2fa-88e7-356d2b217f8f/195497067060.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "Flamagra",
+    "artist": "Flying Lotus",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/e9/6c/fbe96cec-c571-797e-6cfe-c511afe6e598/0801061029135.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6tC2ERExm7n7JEDkHOEFs5?autoplay=true"
+  },
+  {
+    "year": 2016,
+    "title": "99.90%",
+    "artist": "Kaytranada",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/bc/17/03bc17d6-c072-b62e-f41f-0d1adc311338/634904076566.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z"
+  },
+  {
+    "year": 2015,
+    "title": "In Colour",
+    "artist": "Jamie XX",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/dc/ce/b9dcce9c-8cf8-4105-0fab-fb048702bce2/cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ?autoplay=true"
+  },
+  {
+    "year": 2011,
+    "title": "Floral Shoppe",
+    "artist": "Macintosh Plus",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/e0/5c/66e05cbe-657a-5183-1a5e-2e25a7c81ef6/artwork.jpg/600x600bb.jpg",
+    "link": "https://www.youtube.com/watch?v=cCq0P509UL4"
+  },
+  {
+    "year": 2007,
+    "title": "Cross",
+    "artist": "Justice",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/e4/01/62e40187-e672-17e5-f31f-9aee262703a3/mzi.bifzeufu.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "Polo Club",
+    "artist": "Greenskeepers",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/71/95/mzi.wkepbehk.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/track/1NZzoigmqxMnLDXZ4vq50J?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "Grey Album",
+    "artist": "Danger Mouse",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://beatsperminute.com/wp-content/uploads/2012/11/The-Grey-Album.jpg",
+    "link": "https://www.youtube.com/watch?v=X-iA7AyFlU0&pp=0gcJCfcAhR29_xXO"
+  },
+  {
+    "year": 2001,
+    "title": "Discovery",
+    "artist": "Daft Punk",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "The Fat of the Land",
+    "artist": "Prodigy",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/8b/08/968b08e4-cb2b-54c2-32bb-dba77ad1c2ca/634904912161.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "Homework",
+    "artist": "Daft Punk",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/34/8d/c7/348dc71c-d75e-9baf-671a-994e9e74b018/dj.pimdxdmf.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "Endtroducing",
+    "artist": "DJ Shadow",
+    "genre": "Electronic",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/25/b9/e4/25b9e4bf-f039-39d5-a46c-9b84e12eb818/5400863103330_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "Black Origami",
+    "artist": "Jlin",
+    "genre": "Electronic",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/36/99/a5369985-16c1-0df6-3b72-9606cfd1ecb1/12359.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6uXI4a2uZLLYORDhhph66m?autoplay=true"
+  },
+  {
+    "year": 2013,
+    "title": "Double Cup",
+    "artist": "DJ Rashad",
+    "genre": "Electronic",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/3e/80/633e800f-a60b-82cb-b41c-9c654e6e976d/0720841303985_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7qnF9vN6t9NYusHu8SwFss?autoplay=true"
+  },
+  {
+    "year": 2012,
+    "title": "Hawaii Part 2",
+    "artist": "Miracle Music",
+    "genre": "Electronic",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/9e/b1/a09eb185-912d-c86e-c783-84b1bfacd102/859713636477_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "Music Has the Right to Children",
+    "artist": "Boards of Canada",
+    "genre": "Electronic",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b5/4c/c2/b54cc20d-03f5-f2c4-4a0d-9b51ad65af89/dj.txuslqgv.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "All Hell",
+    "artist": "Los Campesinos!",
+    "genre": "Emo",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/66/6e/b4666ec4-bbb1-2c77-7228-42e8997f98dc/859787526377_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "My Light My Destroyer",
+    "artist": "Cassandra Jenkins",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/17/5f/b2175f8d-6b26-1347-5fe3-8c977aca99d2/45326.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "A Crow Looked at Me",
+    "artist": "Mount Eerie/The Microphones",
+    "genre": "Folk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/d7/33/56/d7335696-926b-a533-dd7c-2b8ee2d6a370/191018729622.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
+  },
+  {
+    "year": 2015,
+    "title": "I Love You Honeybear",
+    "artist": "Father John Misty",
+    "genre": "Folk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/06/d3/5b/06d35b24-2744-eae0-7160-b5e453f9fd57/FJM_ILoveYouHoneybear.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+  },
+  {
+    "year": 2015,
+    "title": "Carrie and Lowell",
+    "artist": "Sufjan Stevens",
+    "genre": "Folk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/61/bc/ba61bcaf-2034-f13e-6f66-fdb578d618dc/656605609966.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+  },
+  {
+    "year": 2015,
+    "title": "Beat The Champ",
+    "artist": "The Mountain Goats",
+    "genre": "Folk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/d2/29/11/d22911a9-3737-f7bb-728b-899f069b6beb/516_TMG_1400px.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB"
+  },
+  {
+    "year": 2005,
+    "title": "Illinois",
+    "artist": "Sufjan Stevens",
+    "genre": "Folk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/47/9e/a3/479ea382-2686-3ea9-3def-d67d81fb2ee3/mzi.lhtprasx.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "All Hail West Texas",
+    "artist": "The Mountain Goats",
+    "genre": "Folk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/7a/4b/12/7a4b12fc-8ace-107b-8bed-1b8f0e1b55c6/481_allhailwesttex_mini_2500px.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "Buena Vista Social Club",
+    "artist": "Buena Vista Social Club",
+    "genre": "Folk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/f2/f5/52f2f548-f26d-31fb-fdf4-0b6eba762561/4050538630107.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "Bite Down",
+    "artist": "Rosali",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/ee/70/21ee70c5-bf2e-3098-21ea-a0ba732a1113/1715.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/28ZqFucRGgeTSWyVMN5DV8?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Javelin",
+    "artist": "Sufjan Stevens",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/80/e9/61/80e96151-6e40-6daf-bdc6-33dbb65510e6/40697.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "Turn out the Lights",
+    "artist": "Julien Baker",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/dd/9e/dfdd9e52-4329-3ca8-b2a9-2027ff3b8d35/744861112952.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O?autoplay=true"
+  },
+  {
+    "year": 2001,
+    "title": "The Glow Pt 2",
+    "artist": "The Microphones",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/c6/06/mzi.wzxrrwjx.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "69 Love Songs",
+    "artist": "The Magnetic Fields",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/9a/9a/fb9a9ac4-516b-1242-0f59-55dbb39f60c5/169_MagFields_69LS_2500px.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "The Boy With the Arab Strap",
+    "artist": "Belle and Sebastian",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/98/b0/2f98b0a0-2c61-8f13-3f70-30a6fa602862/744861031161.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "Either/Or",
+    "artist": "Elliott Smith",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/ea/28/ffea28a4-988a-f02e-7e1a-8566db3cab02/mzi.uoqucyoy.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "If You're Feeling Sinister",
+    "artist": "Belle and Sebastian",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/22/9c/93229cb6-3d6f-160e-abbb-ea47be05e92a/744861029663.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI?autoplay=true"
+  },
+  {
+    "year": 2015,
+    "title": "Sprained Ankle",
+    "artist": "Julien Baker",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f1/1e/16/f11e16e2-14ff-08f1-ebc4-d02f3e4bdb3b/196922346187_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1IFpUMgrfPeq6ERuamFG3I?autoplay=true"
+  },
+  {
+    "year": 2014,
+    "title": "Burn Your Fire for No Witness",
+    "artist": "Angel Olsen",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/36/62/e63662cd-1f44-9ccb-2490-fd1d0090ba79/656605224466.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "The Crane Wife",
+    "artist": "The Decemberists",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/93/c9/fd/93c9fd8f-4667-4199-1409-4938bab7e832/00094639724659.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0XuQuKkpH3WOoXbPO5Gujq?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "Im Wide awake its morning",
+    "artist": "Bright Eyes",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/83/fd/0d83fd2e-1cb5-7965-b392-f91f80188290/508.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "Sunset Tree",
+    "artist": "The Mountain Goats",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/dd/53/8add536f-346b-697e-9805-f98ed4bfdae9/652637250886.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ?autoplay=true"
+  },
+  {
+    "year": 2003,
+    "title": "Michigan",
+    "artist": "Sufjan Stevens",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/0a/bd/020abd4e-2a9d-2016-4aa5-d884f94e2eb6/mzi.hgoyjdcn.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Tallahassee",
+    "artist": "The Mountain Goats",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cc/e1/75/cce175c1-b3a0-2cab-44c5-fd415d5fa7de/652637221589.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "I See a Darkness",
+    "artist": "Bonnie \"Prince\" Billy",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d9/87/5c/d9875cb2-93fb-c5d4-0db1-220a75c3c803/781484802228.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6jWSJeNdNX2pTZDWVnOzC9"
+  },
+  {
+    "year": 1998,
+    "title": "American Water",
+    "artist": "Silver Jews",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/25/f6/7225f655-4279-a80f-60e1-c92b7d9bf645/036172914920.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "Elliott Smith",
+    "artist": "Elliott Smith",
+    "genre": "Folk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/ee/8c/96/mzi.hzfwdqan.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "The Past is Still Alive",
+    "artist": "Hurray for the riff raff",
+    "genre": "Alt Country",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/ea/8a/bcea8ae0-3347-a636-c5c2-e113d06130b6/075597898897.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Cool Dry Place",
+    "artist": "Katy Kirby",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bd/b2/2f/bdb22f90-b7b8-65ae-ecbc-25ed5bcff570/656605374796.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "The Land is Inhospitable and So Are We",
+    "artist": "Mitski",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10",
+    "link": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+  },
+  {
+    "year": 2023,
+    "title": "Tim (Let it Bleed Edition)",
+    "artist": "The Replacements",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://i.scdn.co/image/ab67616d0000b2736260ceeeca9d390ec7c12012",
+    "link": "https://open.spotify.com/album/2LJSizYgFPP6gP9O3YDBy1"
+  },
+  {
+    "year": 2022,
+    "title": "Lucifer on the Sofa",
+    "artist": "Spoon",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/87/93/d4/8793d4c2-29e6-e904-7f07-f7de178122cd/191401177276.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+  },
+  {
+    "year": 2018,
+    "title": "Be The Cowboy",
+    "artist": "Mitski",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/bc/5e/04bc5edd-006a-a5d9-0f63-effb5956e44b/656605145068.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+  },
+  {
+    "year": 2023,
+    "title": "the record",
+    "artist": "boygenius",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ad/fc/81/adfc819e-00b2-3cb5-deb2-931a5b6da3fa/22UM1IM44998.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Rat Saw God",
+    "artist": "Wednesday",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bc/75/67/bc7567af-115a-ca47-4937-ce1695f7e2e3/37105.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Seek Shelter",
+    "artist": "Iceage",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/53/db/0f53dbd2-84cd-0aab-792a-97d80c403e2c/184923132366_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4PVusN62Bwq3P73r5m4kqZ?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Emphatically No.",
+    "artist": "Cheekface",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/33/24/1633240e-4079-e76e-e6f1-577ab0eca034/024543052630_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3YkGFruKgF5cpCv3z5cd1E?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Valentine",
+    "artist": "Snail Mail",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/59/da/e6/59dae647-caa2-d928-0019-6cf060af0622/191401178570.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "Father of the Bride",
+    "artist": "Vampire Weekend",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/fa/36/c4fa36f5-eee0-8549-bb95-3c341c82ef40/886447485521.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Twin Fantasy",
+    "artist": "Car Seat Headrest",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/53/71/645371f6-e75a-f5b1-f0f8-0ce1b6ee08fe/744861109259.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Gods favorite customer",
+    "artist": "Father John Misty",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/ad/87/d3ad8783-9725-7201-3495-bb9c95cd86bc/FJM_GodsFavoriteCustomer_Cover_3600x3600_300.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Bossanova",
+    "artist": "Pixies",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/1b/9b/fd1b9bef-6be6-16fc-5995-e538fd7015d6/652637001037.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Live at Bush Hall",
+    "artist": "Black Country, New Road",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://media.pitchfork.com/photos/6419255d9936e1813fbe17ec/1:1/w_450%2Cc_limit/ZENDNL289_PACKSHOT_3000.jpg",
+    "link": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "All Mirrors",
+    "artist": "Angel Olson",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/30/80/0f/30800ffa-f303-9af5-17e7-7f21be89b91b/656605234465.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/track/7jL5aGalMaZRfnJ9jasABT"
+  },
+  {
+    "year": 2018,
+    "title": "Lush",
+    "artist": "Snail Mail",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/f0/b8/e3f0b8b0-88c4-58df-a148-d4714d4fe7dc/744861117957.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Little Oblivions",
+    "artist": "Julien Baker",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/b7/f9/34b7f9d7-ffe3-b598-1ca8-0d9dbff1a4bf/191401181556.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+  },
+  {
+    "year": 2020,
+    "title": "Punisher",
+    "artist": "Phoebe Bridgers",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/91/4f/39914f60-e9aa-4ae9-3962-44b0a5e5d570/656605150062.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+  },
+  {
+    "year": 2024,
+    "title": "Only God Was Above Us",
+    "artist": "Vampire Weekend",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/9f/ed/f99fed7a-3b13-3531-3db6-fac34e1d1c7c/196871790307.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "All Born Screaming",
+    "artist": "St Vincent",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/00/8c/6d008c01-074d-e2af-c691-943a155e4a60/00196922832147_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "Mahashmashana",
+    "artist": "Father John Misty",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/b9/94/e5b994a7-fc83-0c5e-89db-ba03e1681a92/098787166668.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "We",
+    "artist": "Arcade Fire",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/7f/0f/297f0f87-fda5-db4b-4103-5bca480f5043/886449956630.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "God Save the Animals",
+    "artist": "Alex G",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/d9/bb/82d9bbb3-0b7b-bb1d-9632-44bb2c70c744/887828050765.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "Apollo XXI",
+    "artist": "Steve Lacy",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a4/2d/93/a42d9329-4df4-2825-208e-855aab7413e3/5056167115243_1.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9?autoplay=true"
+  },
+  {
+    "year": 2003,
+    "title": "Magnolia Electric Co.",
+    "artist": "Songs: Ohia",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/49/10/f7/4910f7e5-4163-9c90-6aad-905629afecb7/34308.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Clean",
+    "artist": "Soccer Mommy",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/48/4e/b8484e90-f76f-4403-36d9-393bf210b386/767981165233.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "Moon Pix",
+    "artist": "Cat Power",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/89/7b/53/897b53a2-e8ab-09c3-0673-2f61959a9a2f/744861028635.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb?autoplay=true"
+  },
+  {
+    "year": 2000,
+    "title": "The Lioness",
+    "artist": "Songs: Ohia",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/d4/f0/4d/d4f04d62-d5dc-450d-42df-deff6152f00d/cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/04jd1LvnkBfUGTiEUVmprh?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "Trust in The Life Force of Deep Mystery",
+    "artist": "The Comet is Coming",
+    "genre": "Jazz",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/9d/36/3d9d36ec-d86c-98ee-e0ea-601fc6e32504/00602577388385.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "DRONES",
+    "artist": "Terrace Martin",
+    "genre": "Jazz",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/d9/2d/bcd92dfb-741f-c616-6e54-d233c520f629/4050538759983.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/track/6i5Ye3GgVSvvsStTN1cjYL?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "Dance, Noones Watching",
+    "artist": "Ezra Collective",
+    "genre": "Jazz",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/fd/10/86fd10b2-6f73-3c7a-9b9c-0c761a337541/0720841304906_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "Where I'm meant To Be",
+    "artist": "Ezra Collective",
+    "genre": "Jazz",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/5e/dd/e65eddba-91d7-8755-13e3-dbe12f6803c1/0720841302001_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3xa6n9RSo7b1ul55KVAAVc?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Were New Again",
+    "artist": "Gil Scott-Heron / Makaya McCraven",
+    "genre": "Jazz",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/cf/19/9ccf1978-fa2c-2cf9-6efe-615cabfa7f7b/191404100653.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6KyrXenbN00HrJscGWCsf0?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Dinner Party",
+    "artist": "Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington",
+    "genre": "Jazz",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/2a/65/632a65d7-91bc-e38f-7e9a-af4c71e95022/194690210686_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Orquesta Akokan",
+    "artist": "Orquesta Akoken",
+    "genre": "Jazz",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b2/41/48/b2414862-7498-be34-864f-e570f85623d9/192562068557.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Rust In Peace",
+    "artist": "Megadeth",
+    "genre": "Metal",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fa/81/5a/fa815aa4-a361-34fe-8e9f-eab876a4f95b/13UABIM36806.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Violator",
+    "artist": "Depeche Mode",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/0e/66/5c0e66c0-d383-5641-3ec0-4bdb629c49ad/886445705119.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/45YmvYK4hB4CgQgTMuNRm8?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "Nouns",
+    "artist": "No Age",
+    "genre": "Noise Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/05/c5/2205c50e-1746-0686-7865-a182301fd76e/098787077261.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0sK9bT9H10yJ8S0jxC4PaD?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Dirty Computer",
+    "artist": "Janelle Monae",
+    "genre": "Pop",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/39/ff/8a/39ff8a3b-1e5c-1531-8a4a-88847f956ffe/075679876911.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
+  },
+  {
+    "year": 2014,
+    "title": "French Exit",
+    "artist": "TV Girl",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3d/09/0c/3d090c87-f02b-3c3c-cedf-603cc900082f/888174780955_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e?autoplay=true"
+  },
+  {
+    "year": 2009,
+    "title": "xx",
+    "artist": "The xx",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/8d/ea/8e8dea46-dad8-7cd2-b539-6fe4e53eb498/634904045067.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "Smile",
+    "artist": "Brian Wilson",
+    "genre": "Pop",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m09/d23/h10/s06.qufssuem.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4Uc6YCjpfyjj02rZfg2EUv?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "Thunder Lightening Strike",
+    "artist": "The Go Team",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/8b/b9/e58bb92f-81d1-ed44-429e-f9bd4616bd6a/mzi.habrfyqb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7k8fPk75tH4HPLy43neH0S?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "Ladies and Gentlemen we are floating in Space",
+    "artist": "Spiritualized",
+    "genre": "Pop",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/d1/b6/32d1b6a7-1ff3-212b-b85c-95cead2d7372/195081146409.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "What's the Story Morning Glory",
+    "artist": "Oasis",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Heaven or Las Vegas",
+    "artist": "Cocteau Twins",
+    "genre": "Pop",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/cd/61/76cd61e7-0714-dce5-c48e-0f05f8fcb84b/652637001280.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E?autoplay=true"
+  },
+  {
+    "year": 2013,
+    "title": "Beyonce",
+    "artist": "Beyonce",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/dc/ca/29/dcca295f-851e-5faf-a3b4-030965fa80f2/dj.jyrlgxlq.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m?autoplay=true"
+  },
+  {
+    "year": 2013,
+    "title": "Pure Heroine",
+    "artist": "Lorde",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/d3/23/e1d323d6-a7e4-6d5e-e6f6-5105c76db133/13UAAIM68691.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v?autoplay=true"
+  },
+  {
+    "year": 2012,
+    "title": "Coexist",
+    "artist": "The XX",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/81/34/5781340f-df6f-7f35-e24e-94ba71895d6e/634904608064.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW?autoplay=true"
+  },
+  {
+    "year": 2009,
+    "title": "Grand",
+    "artist": "Matt & Kim",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a4/45/fc/a445fc0f-43ee-7d57-443f-fa2d470237a8/15UMGIM46292.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "One of the Boys",
+    "artist": "Katy Perry",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/3e/4f/cc3e4fcc-e84f-d6b6-7a4c-879250f26db0/13UABIM48773.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "Night Falls over Kortedala",
+    "artist": "Jens Lekman",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/34/78/4e3478a9-0402-8191-dd7b-78bf5ccf7369/31544.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7JCBRYuae6ORVUFVJ1WFg7"
+  },
+  {
+    "year": 2006,
+    "title": "Classics",
+    "artist": "Ratatat",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/49/69/b84969fc-a475-ebc2-6496-274eb0771360/634904219888.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "Back to Black",
+    "artist": "Amy Winehouse",
+    "genre": "Pop",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "Demon Days",
+    "artist": "Gorillaz",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "This is Hardcore",
+    "artist": "Pulp",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/28/ac/3f/28ac3f98-41b9-7f76-b952-11ec7f98968d/06UMGIM28918.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/32T4VUVJCN17nA2uybRRon?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "Different Class",
+    "artist": "Pulp",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/33/f6/3633f6ab-5542-d597-a64e-fc7cd55bb4d2/00602498400517.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Grace",
+    "artist": "Jeff Buckley",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "Ants from Up There",
+    "artist": "Black Country, New Road",
+    "genre": "Post Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/83/4f/3e834feb-a778-0df8-6c1b-83afddc888da/5054429151442.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+  },
+  {
+    "year": 1999,
+    "title": "Agaetis byrjun",
+    "artist": "Sigur Ros",
+    "genre": "Post Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f7/34/fd/f734fd6c-aeca-8052-825c-706d1c665a8b/190296941856.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Crawler",
+    "artist": "Idles",
+    "genre": "Post-Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/2b/93/202b9339-81c5-90f8-b9dd-6e73cec8218c/0720841301400_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6eGvGeCrgRlUmxnPjmhxUN?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "The Slow Rush",
+    "artist": "Tame Impala",
+    "genre": "Pop",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/e3/e7/65e3e740-b69f-f5cb-f2e6-7dedb5265ac9/19UMGIM96748.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "The Great Depression",
+    "artist": "Defiance, Ohio",
+    "genre": "Punk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/aa/c2/daaac2c5-e6d7-319b-22ce-b8aceeee802a/mzi.grirdxdn.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3ZVDkyDZpPah8FnbWJXQXG?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "American Idiot",
+    "artist": "Green Day",
+    "genre": "Punk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/9e/17/c2/mzi.ofggkufy.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "Dig Me Out",
+    "artist": "Sleater-Kinney",
+    "genre": "Punk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/ad/dd/2fadddc8-116d-bc4a-0fbb-77d493a5681c/SleaterKinney_DigMeOut_1425.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "Call The Doctor",
+    "artist": "Sleater-Kinney",
+    "genre": "Punk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/6d/0a/a2/6d0aa273-0e52-0dae-df9b-d2758fcdcaf3/SleaterKinney_CalltheDoctor_1425px.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Dookie",
+    "artist": "Green Day",
+    "genre": "Punk",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/83/e7/8883e74b-1b7c-0725-09de-21e4e00d54b5/093624915713.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "I Got Heaven",
+    "artist": "Mannequin Pussy",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/f3/94/f3f394d0-55c4-b2ec-22f1-d353b1a52923/0045778796861.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "The Unraveling of Puptheband",
+    "artist": "Pup",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/4c/4f/ed4c4fef-6b59-5ecd-3afe-a53068fa1c32/4050538774443.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7sGOQncTJ6iMPl4RZUv42N?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "GLOW ON",
+    "artist": "Turnstile",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://m.media-amazon.com/images/I/9153bce95jL._UF1000,1000_QL80_.jpg",
+    "link": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Melee",
+    "artist": "Dogleg",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/46/e5/9f46e545-7146-1556-d606-76b4d345cb38/646920323463.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6tCvAxUcCTFBEQeCKEAvT0?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "POST-",
+    "artist": "Jeff Rosenstock",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/38/58/0a3858be-0b83-f047-5ca6-c46c5197ebd1/644110035394.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4dvUYqwZfiRuFvSbqKF2FZ?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Joy as an Act of Resistance",
+    "artist": "Idles",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/25/82/79258275-f516-77d9-3398-7e2d7f4f3af3/720841215806_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Time & Space",
+    "artist": "Turnstile",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://www.npr.org/2018/02/19/586158224/first-listen-turnstile-time-space",
+    "link": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "Brutalism",
+    "artist": "Idles",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/e5/92/74e5922b-bab5-327c-b9f3-065c147ae0a6/0720841215530_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4qkVmTdLjjLpZAGLHF9SKz?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "New Wave",
+    "artist": "Against Me!",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/bc/75/49bc759a-add8-0c5b-de1e-92a366ff7468/dj.wirvkacr.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq?autoplay=true"
+  },
+  {
+    "year": 2003,
+    "title": "The Meadowlands",
+    "artist": "The Wrens",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m07/d09/h01/s05.bufypcbx.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4Olz2cm8ncBqhnRcDwqVFK?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Repeater",
+    "artist": "Fugazi",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://m.media-amazon.com/images/I/81GeWKHHmzL._UF1000,1000_QL80_.jpg",
+    "link": "https://open.spotify.com/album/6JbGZGta38AArBgflt024C?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "Live in paris",
+    "artist": "Sleater-Kinney",
+    "genre": "Punk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/71/ce/ff71cead-ab2f-c74b-7d26-3cc405306af9/098787119169.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2fX7mib0s0tkuVlTNDkoow?autoplay=true"
+  },
+  {
+    "year": 2014,
+    "title": "Transgender Dysphoria Blues",
+    "artist": "Against Me!",
+    "genre": "Punk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/54/8b/28548bcd-28fd-d0b2-358b-dc91ca9dd5d7/886444311717_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3SmYJLsEODt537BS6shP4B?autoplay=true"
+  },
+  {
+    "year": 2014,
+    "title": "Never Hungover Again",
+    "artist": "Joyce Manor",
+    "genre": "Punk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/0e/54/a70e54db-bf38-5ade-7b05-1855017e2cc0/0045778735204.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf?autoplay=true"
+  },
+  {
+    "year": 2001,
+    "title": "The Argument",
+    "artist": "Fugazi",
+    "genre": "Punk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m04/d13/h11/s05.xaqxiqox.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1zql8Jptd9BhBt2d8bgnVY?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "American Football",
+    "artist": "American Football",
+    "genre": "Punk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/17/90/19/179019ea-4eaf-b2e5-ca19-68cdbb795032/644110027696.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "The Shape of Punk to Come",
+    "artist": "Refused",
+    "genre": "Punk",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/df/59/05/df5905f4-56e6-63a6-d914-ae226ae9e733/0045778007165.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1fLjNWaFClYtAzdOc3u6ns?autoplay=true"
+  },
+  {
+    "year": 2016,
+    "title": "Blonde",
+    "artist": "Frank Ocean",
+    "genre": "R&B",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+  },
+  {
+    "year": 2012,
+    "title": "Channel Orange",
+    "artist": "Frank Ocean",
+    "genre": "R&B",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8?autoplay=true"
+  },
+  {
+    "year": 2000,
+    "title": "Voodoo",
+    "artist": "D'angelo",
+    "genre": "R&B",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/be/cd/fdbecdf2-5bf5-09fc-8fab-6e93250ebda4/13ULAIM54464.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8?autoplay=true"
+  },
+  {
+    "year": 2014,
+    "title": "Black Messiah",
+    "artist": "D'Angelo",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/38/24/01382463-de8c-2a33-f8fe-fb3a008dfc87/886444977449.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "The Archandroid",
+    "artist": "Janelle Monae",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/12/48/9f124811-b7e8-3312-a27f-b54a553cc644/mzi.rndulspu.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "Fin",
+    "artist": "Syd",
+    "genre": "R&B",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bc/8b/72/bc8b7213-692c-8981-b050-abf66815253e/886446326498.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0?autoplay=true"
+  },
+  {
+    "year": 2016,
+    "title": "Malibu",
+    "artist": "Anderson.paak",
+    "genre": "R&B",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/1b/b7/b1/1bb7b1a0-4ff7-5623-4992-3ef443cd6880/888915169681_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "The Score",
+    "artist": "Fugees",
+    "genre": "R&B",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/66/3f/c3663fe2-5c90-f701-93f8-54d5b56bc1df/888880608932.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4z6F5s3RVaOsekuaegbLfD?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "Brown Sugar",
+    "artist": "D'angelo",
+    "genre": "R&B",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/e8/b3/80e8b33b-1d7d-5b60-965d-c2f0be596875/17UM1IM08104.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Hive Mind",
+    "artist": "The Internet",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/9a/2d/a79a2dda-d97d-4225-bd7c-6a8b80715a01/886447110089.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "Gemini Rights",
+    "artist": "Steve Lacy",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2a/cb/e3/2acbe3f1-7a65-e2c1-8f12-ba04c6ee05dc/196589099631.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Untitled (Rise)",
+    "artist": "SAULT",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/a8/05/66a8059f-d3e0-5f09-71cd-aa0a18001972/859741920043_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "When I Get Home",
+    "artist": "Solange",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/54/42/2d544250-dc6f-32a8-ed04-46b9f2ad752d/886447578018.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "LEGACY! LEGACY!",
+    "artist": "Jamilia Woods",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/af/15/0caf1543-bf1a-9cc2-c088-a008b84471d5/656605234267.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/585npG2s39HRcPuEwLlV7U?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Cocoa Sugar",
+    "artist": "Young Fathers",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/82/29/32822930-427b-05e3-c1fd-afe23c6e0d0a/5054429131970.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/03Dp6OJS4wd7dI1rRszPwj?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Negro Swan",
+    "artist": "Blood Orange",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/6b/2d/bf6b2df2-b0c7-bbfa-4a2b-59bb46c90d64/887828042166.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Heavy Heavy",
+    "artist": "Young Fathers",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/a5/b1/b0a5b100-e8a2-0a33-7835-4d8e1234d628/5054429157048.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "Kiwanuka",
+    "artist": "Micheal Kiwanuka",
+    "genre": "R&B",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/7b/d7/fe7bd752-30f8-bbb3-5d01-36710c4024aa/19UMGIM61784.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "CALL ME IF YOU GET LOST",
+    "artist": "Tyler, The Creator",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/47/0a/65470a4c-a70f-4a0b-f77b-3edb39e9097a/886449377039.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+  },
+  {
+    "year": 2019,
+    "title": "IGOR",
+    "artist": "Tyler, The Creator",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/06/05/0c060581-6242-6a2a-a677-20170f2cf8da/886447710180.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+  },
+  {
+    "year": 2017,
+    "title": "Damn",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+  },
+  {
+    "year": 2016,
+    "title": "Coloring Book",
+    "artist": "Chance the Rapper",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/3f/b5/0d3fb523-1b70-b4b1-6bf7-ee94a89ab805/859717324721_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+  },
+  {
+    "year": 2015,
+    "title": "To Pimp A Butterfly",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+  },
+  {
+    "year": 2014,
+    "title": "Pinata",
+    "artist": "Freddie Gibbs",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ce/b6/93/ceb693e7-3318-48de-a20d-934aa54da27f/989237002226_Cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/43uErencdmuTRFZPG3zXL1"
+  },
+  {
+    "year": 2014,
+    "title": "Run the Jewels 2",
+    "artist": "Run The Jewels",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/38/45/473845f6-e307-96ee-4c54-b226dec23556/886444890526.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0KQ4z3catw8gNkJ705JEpP?autoplay=true"
+  },
+  {
+    "year": 2013,
+    "title": "Acid Rap",
+    "artist": "Chance the Rapper",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/51/41/cc514129-b66f-7a1f-df8a-4cd4d2207be6/5059033597358.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid?autoplay=true"
+  },
+  {
+    "year": 2012,
+    "title": "good kid, m.A.A.d. city",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/0b/31/0a0b31cc-077c-31bf-e7fe-612191774948/10UMGIM30072.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "Late Registration",
+    "artist": "Kanye West",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/68/13/006813b3-9ca1-2e6f-98df-4ef78cd6cb49/06UMGIM20452.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "Madvillainy",
+    "artist": "Madvillain",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/c2/1a/1ac21a9d-3ffd-3f80-dc96-223622b50b5f/Madvillainy.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "The College Dropout",
+    "artist": "Kanye West",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/73/b1/0d73b181-2716-f7a6-a340-0a3f81eacfb9/06UMGIM15686.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F?autoplay=true"
+  },
+  {
+    "year": 2003,
+    "title": "The Black Album",
+    "artist": "Jay-Z",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cc/9d/91/cc9d91ba-b288-e6d8-02b3-c3a7b1fe3410/00602527361956.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Lord Willin'",
+    "artist": "Clipse",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/ef/25/6aef259e-9776-f668-6f9e-b4decfe9c85d/mzi.xhrxhuay.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX?autoplay=true"
+  },
+  {
+    "year": 2001,
+    "title": "Blueprint",
+    "artist": "Jay-Z",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/c2/35/fec23530-f8dc-db33-5e0e-46bebf22bb35/00857366006944.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH?autoplay=true"
+  },
+  {
+    "year": 2000,
+    "title": "Supreme Clientele",
+    "artist": "Ghostface Killah",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/29/26/f8/2926f8e4-9955-f417-31be-d18869ea75a8/mzi.qlmvzdnk.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7eaQqVyq6xzAVgsxSzSP83?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "Aquemini",
+    "artist": "Outkast",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/d1/dc/09d1dccf-7ff4-02b6-9613-942a6d140452/730082605328.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "Mos Def and Talib Kweli are Black Star",
+    "artist": "Black Star",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/9d/b4/7d9db404-4032-4ed2-f5d8-8055bc637806/00008811289720.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "Atliens",
+    "artist": "Outkast",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/f1/08/a6f1080e-cdd7-30c4-1d2d-13ac9b59efdd/730082602921.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "Only Built 4 Cuban Linx...",
+    "artist": "Raekwon",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/b1/de/e1b1de50-cca7-28d1-9e40-00c2251ead3d/078636666327.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Illmatic",
+    "artist": "Nas",
+    "genre": "Rap",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/13/50/e813500d-51cd-6c37-c405-53a668cbde97/886444072496.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "CHROMAKOPIA",
+    "artist": "Tyler, The Creator",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/bd/e9/7dbde97e-b97d-8cc3-0203-218b687408a9/196872555059.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH?autoplay=true"
+  },
+  {
+    "year": 2024,
+    "title": "GNX",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Scaring the Hoes",
+    "artist": "Danny Brown & JPEGMAFIA",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/8c/9f/538c9f47-17ca-97a5-3874-68108f870c6a/197188290252.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Maps",
+    "artist": "billy woods & Kenny Segal",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/70/3a/10703a85-d56e-78fe-be48-e8c32b3cc404/197188339432.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Sundial",
+    "artist": "Noname",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/80/84/21/80842189-408c-115d-5978-7678a82ce42f/197189567698.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "SICK!",
+    "artist": "Earl Sweatshirt",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/08/dc/5d08dc69-8b57-ac1c-a5ba-9051ac758da4/093624875772.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "The Elephant Man's Bones",
+    "artist": "Roc Marciano & The Alchemist",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/a5/9c/1ea59c2d-a77f-3fd1-f58d-39183183c746/194690921346_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf?autoplay=true"
+  },
+  {
+    "year": 2022,
+    "title": "Mr Morale and the Big Steppers",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/a1/a9/72a1a9a0-6c42-a37f-aad4-7e8772365c6d/22UMGIM52376.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Pray for Haiti",
+    "artist": "Mach-Hommy",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/18/6d/9e186d5c-7eb0-72b0-8437-996ac59818fb/194690528033_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Half God",
+    "artist": "Wiki",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/fe/72/9ffe726c-09e6-f122-15ec-a796d2042ff4/5060263725961.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3NKeWAMARIW8qdc7wDjZ0m?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Vince Staples",
+    "artist": "Vince Staples",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a9/b6/09/a9b60920-8ee9-4736-f9a2-2e73402a268d/21UMGIM58432.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm?autoplay=true"
+  },
+  {
+    "year": 2021,
+    "title": "Bo Jackson",
+    "artist": "Boldy James & The Alchemist",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/db/d6/5adbd6c4-0f85-1c2e-5e31-dd11cc462610/194690582486_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1KHFw3hsKvNGGCkXKQMrbT?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Alfredo",
+    "artist": "Freddie Gibbs & The Alchemist",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/11/f5/72/11f572ef-f422-92b5-1a7e-b6cd882ddf85/194690217357_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Run the Jewels 4",
+    "artist": "Run The Jewels",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/93/f4/17/93f41784-c456-69ba-0756-f1636d84bd9b/4050538621075.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "Bandana",
+    "artist": "Freddie Gibbs & Madlib",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/8c/88/218c881e-1f3f-34af-1970-d763160660b1/886447625002.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf?autoplay=true"
+  },
+  {
+    "year": 2019,
+    "title": "Brandon Banks",
+    "artist": "Maxo Kream",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2a/56/d9/2a56d901-db40-ea1d-2c34-957c0ebefa1c/886447738665.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2E5FdSQ0pyo7LHW7XxMYUi?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "FM!",
+    "artist": "Vince Staples",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/77/de/5677de67-bd83-215c-e106-a5b4164f0664/00602577285387.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1XGGeqLZxjOMdCJhmamIn8?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Care For Me",
+    "artist": "Saba",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/f7/a9/4af7a949-65eb-2b48-5b04-d9ce66bc732b/198588683668.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1crhG7YecAj6ZN0AAYMYsb?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Daytona",
+    "artist": "Pusha T",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5b/14/b2/5b14b2b9-a35b-ffa6-de4c-ad685eb0aa88/18UMGIM27192.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp?autoplay=true"
+  },
+  {
+    "year": 2018,
+    "title": "Room 25",
+    "artist": "Noname",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a0/47/53/a04753cc-ac8e-ea83-72c9-26ba265fcfa2/193436024624.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "Big Fish Theory",
+    "artist": "Vince Staples",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/4a/ad/c84aad46-7100-74b6-cdb5-084b79d3af18/17UM1IM00778.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS?autoplay=true"
+  },
+  {
+    "year": 2016,
+    "title": "We Got it from here … Thank You 4 Your Service",
+    "artist": "A Tribe Called Quest",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/d3/ce/68d3ce5e-9465-4c77-60a6-496417e35308/886446074757.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3?autoplay=true"
+  },
+  {
+    "year": 2013,
+    "title": "Old",
+    "artist": "Danny Brown",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/8e/a7/8a8ea70e-3443-0b35-6d1d-d3f956b3a439/075597957808.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl?autoplay=true"
+  },
+  {
+    "year": 2013,
+    "title": "Run The Jewels",
+    "artist": "Run The Jewels",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/2b/c5/d42bc5f7-7ca5-2b31-b5e1-e4059b7a0d05/853895007148.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C?autoplay=true"
+  },
+  {
+    "year": 2013,
+    "title": "Yeezus",
+    "artist": "Kanye West",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/56/e7/3c56e717-06a0-b67d-e694-9b6e6e43a5a8/13UAAIM08444.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK?autoplay=true"
+  },
+  {
+    "year": 2012,
+    "title": "R.A.P. Music",
+    "artist": "Killer Mike",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/5b/e4/825be449-6658-622e-1816-5bcb305cfc0c/838446001851.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5EAhUoAz1G3WTvIfGZvmrh?autoplay=true"
+  },
+  {
+    "year": 2011,
+    "title": "Watch The Throne",
+    "artist": "Jay-Z & Kanye West",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/a8/ef/ffa8efdf-396a-ece7-ddbf-be10db4e5ae7/11UMGIM20800.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2if1gb3t6IkhiKzrtS9Glc?autoplay=true"
+  },
+  {
+    "year": 2011,
+    "title": "undun",
+    "artist": "The Roots",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/51/bd/bd/51bdbda4-8f8a-ed08-d402-6395fcb2bac6/11UMGIM38405.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0cwlEeMEkvdoiPNJxlzHtI?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "Sir Lucious Left Foot: The Son of Chico Dusty",
+    "artist": "Big Boi",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/ab/09/a6ab099a-cee4-0d54-c7e1-6598f9a9fd2b/10UMGIM17144.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1dkvQiAwd1ONpvxAHzLPKl?autoplay=true"
+  },
+  {
+    "year": 2009,
+    "title": "Only Built 4 Cuban Linx 2",
+    "artist": "Raekwon",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/8f/69/b58f6964-524f-8911-c647-ff7e89d982a2/05099996879559.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5QpSt1QtT7MaCKZNQE82fv?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "Fishscale",
+    "artist": "Ghostface Killah",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/bf/66/a8bf6633-742a-185f-5f42-2230aa4ff8ae/06UMGIM22759.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0gaLZATMEssSErDzywUqxD?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "Be",
+    "artist": "Common",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/82/d4/5682d498-c253-6b18-9fe3-a7c39c81b823/06UMGIM20396.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "Mm... Food",
+    "artist": "MF Doom",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/18/db/b618dbd0-49c8-e88a-6523-0a49c55258dc/cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "The Fix",
+    "artist": "Scarface",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/f6/1b/def61bfb-f081-7ab5-474c-5956b729a2bc/06UMGIM24083.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0Kahsu5SG9FX1mBhLuiA8L?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "Things Fall Apart",
+    "artist": "The Roots",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/56/c2/a256c22e-aa5d-0d93-0717-15a81eced86e/06UMGIM02261.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "Reasonable Doubt",
+    "artist": "Jay-Z",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/5d/8a/f55d8a6b-9294-7f8f-441a-9d337059a364/270.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "Liquid Swords",
+    "artist": "GZA",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/13/f6/27/13f62737-00fa-e459-5306-961cbbdfe685/00602547742261.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Ready To Die",
+    "artist": "Notorious BIG",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/5b/0e/505b0e6f-cb2d-df8f-58df-02a8d8e61c59/075679456762.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "The Diary",
+    "artist": "Scarface",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/5a/38/065a3873-bf5b-295e-9db5-641a38bc8169/886444199988.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2Z1lDWB2EfTUKV5ILxjdvu?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Blowout Comb",
+    "artist": "Digable Planets",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/51/d6/9b51d651-b814-5d3e-684f-6e456f498aaf/13ULAIM49390.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "Fear of a Black Planet",
+    "artist": "Public Enemy",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/61/ff/5361ffae-6a48-0441-f0c8-72b587b9b494/00602547742292.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "People's Instinctive Travels And The Paths of Rhythm",
+    "artist": "A Tribe Called Quest",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/f5/94/7a/f5947a20-9155-1556-291a-41f8fbc819a0/886445474657.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck?autoplay=true"
+  },
+  {
+    "year": 2016,
+    "title": "Telefone",
+    "artist": "Noname",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5a/44/ae/5a44ae2c-3033-9723-82b1-3dbc1d422abd/859718078043.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c?autoplay=true"
+  },
+  {
+    "year": 2015,
+    "title": "Summertime 06",
+    "artist": "Vince Staples",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/ec/db/f5ecdb60-effd-0965-75af-d59ae71d97ca/15UMGIM30084.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD?autoplay=true"
+  },
+  {
+    "year": 2015,
+    "title": "Barter 6",
+    "artist": "Young Thug",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7f/ab/ba/7fabbae7-d92a-f59e-352b-7b9d1e960feb/075679924872.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e?autoplay=true"
+  },
+  {
+    "year": 2015,
+    "title": "Surf",
+    "artist": "Donnie Trumpet & the Social Experiment",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/35/4f/2b/354f2bda-d966-89df-34cf-9462610d8c60/859714856911_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr?autoplay=true"
+  },
+  {
+    "year": 2015,
+    "title": "I don't like shit, I don't go outside",
+    "artist": "Earl Sweatshirt",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/9e/df/fd9edffe-ee4e-53b1-9a2a-925d7d5ea912/886445145168.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3wUv2IjD5hPrqlPakpczQa?autoplay=true"
+  },
+  {
+    "year": 2012,
+    "title": "Life is Good",
+    "artist": "Nas",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/ca/36/b8ca3691-a263-33b0-4848-aced346bfc22/12UMGIM31296.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0ddTtajzPmxZ7UVW2VEAln?autoplay=true"
+  },
+  {
+    "year": 2011,
+    "title": "Section.80",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/d3/37/d7d33750-6d28-6e73-4913-7139ebd80906/888915968772_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "Krit Wuz Here",
+    "artist": "Big KRIT",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/b5/0e/3fb50ed1-0a86-b8a1-4d24-fb518da2ca3e/4050538612769.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/30ERYJfWavYaaEJ0BLRE88?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "Flockaveli",
+    "artist": "Waka Flocka Flame",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/c1/68/fdc168a9-5dbf-ab1b-1fbb-34f1c245f14d/093624969907.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM?autoplay=true"
+  },
+  {
+    "year": 2009,
+    "title": "Man on The Moon: The End of Day",
+    "artist": "Kid Cudi",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dd/f5/50/ddf55058-b181-4099-bc12-4862b800cf96/09UMGIM33419.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "808s and Heartbreak",
+    "artist": "Kanye West",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/5c/f2/fb5cf235-2ae9-34c3-1ddb-ef896fb14175/16UMGIM58688.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "The Carter 3",
+    "artist": "Lil Wayne",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7d/63/39/7d6339c5-6ce7-7cf6-5f5b-6f3f3f478817/08UMGIM10308.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "American Gangster",
+    "artist": "Jay-Z",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/75/bf/bb/75bfbb6b-c4b4-c401-c798-85a57352bcec/15UMGIM77662.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "King",
+    "artist": "T.I.",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/a5/3c/25a53c93-d890-adaf-ca84-afa15065c220/075678380068_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "Hell Hath No Fury",
+    "artist": "Clipse",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Features/9b/dd/61/dj.avjfsbkd.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3hs7Vj7dQJBGshp5Mo6Iop?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "The Minstrel Show",
+    "artist": "Little Brother",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m08/d29/h20/mzi.tdawmppa.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7HjKtFrwWYFfCCVZGni6jj?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "Tha Carter 2",
+    "artist": "Lil Wayne",
+    "genre": "Rap",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/f9/1c/85f91c0e-9665-837f-a772-e964a215b91f/06UMGIM17275.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6?autoplay=true"
+  },
+  {
+    "year": 2003,
+    "title": "Get Rich or Die Trying",
+    "artist": "50 Cent",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Original Pirate Material",
+    "artist": "The Streets",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/b3/d6/96/mzi.khhagquh.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0hkZGxfsFypXbjq15hM6U9?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Quality",
+    "artist": "Talib Kweli",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/16/d9/a416d9c7-1465-763b-315f-cffc514ba1e3/00008811304829.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0apVddbk7Juec0DV4LNiBg?autoplay=true"
+  },
+  {
+    "year": 2000,
+    "title": "Stankonia",
+    "artist": "Outkast",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e0/4c/f4/e04cf460-46a5-992a-87c7-2c1aef7e3a46/730082607223.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj?autoplay=true"
+  },
+  {
+    "year": 2000,
+    "title": "The Unseen",
+    "artist": "Quasimodo",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/dd/70/fcdd70de-c655-17a7-babe-357db85fd60a/s05.dcqvtkwf.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0dCxrv92J8gKDh4zObd2ZZ?autoplay=true"
+  },
+  {
+    "year": 2000,
+    "title": "Marshall Mathers LP",
+    "artist": "Eminem",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "Operation: Doomsday",
+    "artist": "MF Doom",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/99/25/399925ca-1b3d-d4b8-8a77-b9946edb5d20/36768.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "Black on Both Sides",
+    "artist": "Mos Def",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/89/20/70/89207018-b8f3-4935-b812-dc94a5504df1/00602547873125.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "Moment of Truth",
+    "artist": "Gang Starr",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/0a/ed/650aedac-0397-9739-28ab-d2331726b1aa/13ULAIM48797.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Ill Communication",
+    "artist": "Beastie Boys",
+    "genre": "Rap",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8?autoplay=true"
+  },
+  {
+    "year": 2016,
+    "title": "Puberty 2",
+    "artist": "Mitski",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/ee/82/7aee8209-a778-109f-0a98-bb415bc8e95d/656605142364.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+  },
+  {
+    "year": 2014,
+    "title": "St Vincent",
+    "artist": "St Vincent",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/49/20/3d492024-8a3f-ee8c-bbae-212473a0b69d/13UAEIM27436.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
+  },
+  {
+    "year": 2013,
+    "title": "Sunbather",
+    "artist": "Deafheaven",
+    "genre": "Metal",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/52/b2/6752b2b0-43c7-7bfb-16ac-d6c7f605c898/888002414861.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2kKXGWaCEl06EKZ4DxBJIT?autoplay=true"
+  },
+  {
+    "year": 2011,
+    "title": "Strange Mercy",
+    "artist": "St Vincent",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e6/87/65/e687653d-686c-5333-0596-17e9534c4a9e/652637312362.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "The Midnight Organ Fight",
+    "artist": "Frightened Rabbit",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1e/cd/47/1ecd47ea-a4ce-5aa7-5a74-cb0dad9430c6/0600116997050_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3yfQOuiHChMEqk0SrS5Smr?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "Neon Bible",
+    "artist": "Arcade Fire",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/79/93/20/79932044-b922-e841-16ff-7389fc6ea899/886446576473.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4GT6uZod4p5RiDMOVHOMme?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "Funeral",
+    "artist": "Arcade Fire",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/09/6e/2b096e8c-ae65-fc42-a4b1-19abb4100433/886446576442.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Yoshimi Battles The Pink Robots",
+    "artist": "The Flaming Lips",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/1f/f5/8f1ff578-4952-563a-7c4a-ab65e040ce95/093624913450.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf?autoplay=true"
+  },
+  {
+    "year": 2001,
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "genre": "Alt Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ea/04/d4/ea04d45d-6f5d-ede6-fb64-71f3e6a6e62f/dj.ojkzzidd.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "The Soft Bulletin",
+    "artist": "The Flaming Lips",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/cc/ca/dacccae4-4f00-f451-6051-46d04a7d5099/093624911791.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "The Battle of Los Angeles",
+    "artist": "Rage Against the Machine",
+    "genre": "Alt Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/7d/eb/107deb76-ee81-8151-2375-7b18f67591f0/074646963029.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX?autoplay=true"
+  },
+  {
+    "year": 1998,
+    "title": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "genre": "Indie Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/4d/e9/ff4de967-5745-d2e8-5161-f7181d4d9bac/s05.acdiexfy.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "Ok Computer",
+    "artist": "Radiohead",
+    "genre": "Alt Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "Odelay",
+    "artist": "Beck",
+    "genre": "Alt Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/bd/e5/5bbde5af-e430-2b74-1980-00bd784d8a27/00602577519956.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Live Through This",
+    "artist": "Hole",
+    "genre": "Alt Rock",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/3a/17/9b3a172c-e3d8-044d-77e4-6b1096b5a093/00720642463123.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "But Here We Are",
+    "artist": "Foo Fighters",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/41/c9/5041c992-e078-77c1-442a-ff896abd59db/196871063197.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "Masseducation",
+    "artist": "St Vincent",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/5d/7f/ea5d7f85-ca7d-bad8-a4b0-f73e916b4b30/17CRGIM04239.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e?autoplay=true"
+  },
+  {
+    "year": 2015,
+    "title": "Sometimes I Sit and Think, and Sometimes I just Sit",
+    "artist": "Courtney Barnett",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/46/d9/3246d956-4d3e-9fa2-80f1-bdc38ad3cca6/CB-deluxe-front-cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3BlbLyTsUdLju9a7G8Dz6o?autoplay=true"
+  },
+  {
+    "year": 2015,
+    "title": "Currents",
+    "artist": "Tame Impala",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a8/2e/b4/a82eb490-f30a-a321-461a-0383c88fec95/15UMGIM23316.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv?autoplay=true"
+  },
+  {
+    "year": 2013,
+    "title": "Modern Vampires of The City",
+    "artist": "Vampire Weekend",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/69/8d/68698df4-e9f8-e57e-8dbe-a05c5bb2893e/634904055653.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j?autoplay=true"
+  },
+  {
+    "year": 2012,
+    "title": "Lonerism",
+    "artist": "Tame Impala",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/40/9b/b7409bc6-24fa-b956-5613-4be8dc62be06/12UMGIM64219.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "The Suburbs",
+    "artist": "Arcade Fire",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/9f/1a/ea9f1ab0-4cac-c925-590d-14461f676912/886446576510.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "Vampire Weekend",
+    "artist": "Vampire Weekend",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ba/01/17/ba01176d-e46f-aac5-e1be-4256c26c173e/634904831868.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "Dear Science",
+    "artist": "TV on the radio",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/19/94/16/19941639-1ca7-33f7-46fa-c535aa5337a8/cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/21yNVHh5OZ4r3BphLjDVJK?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "Ga Ga Ga Ga Ga",
+    "artist": "Spoon",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/84/79/7d/84797d8f-d1c0-f728-e578-be00c0e24882/744861129752.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/477gzTVWjJWGc7kFTvzwma?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "Hissing Fauna, Are You The Destroyer?",
+    "artist": "Of Montreal",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/f6/0d/baf60d45-e842-be8f-3b3d-54a621860c4e/644110012463.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ?autoplay=true"
+  },
+  {
+    "year": 2006,
+    "title": "Whatever People Say I Am, That's What I'm Not",
+    "artist": "Arctic Monkeys",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/cf/9b/96/cf9b9637-f619-eceb-5382-e9b4d44e74fb/dj.npwkgmai.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1?autoplay=true"
+  },
+  {
+    "year": 2003,
+    "title": "Elephant",
+    "artist": "The White Stripes",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/25/09/0725098a-09f4-f240-e551-94384a590371/886448799009.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE?autoplay=true"
+  },
+  {
+    "year": 2003,
+    "title": "Echoes",
+    "artist": "The Rapture",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cd/2c/a3/cd2ca3b4-d59a-cfa5-625a-572e47f990a6/43953.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Turn on the Bright Lights",
+    "artist": "Interpol",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/ef/aa/beefaad1-64ba-1288-d2ce-95a5964a020b/744861054566.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Sea Change",
+    "artist": "Beck",
+    "genre": "Folk",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b7/39/f5/b739f599-a321-9ddf-9691-6f888bd46f97/00602527874692.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "You Forgot It In People",
+    "artist": "Broken Social Scene",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/b1/49/c6b14990-0dc7-3763-0e4d-acf243f1b8ee/00827590010062.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7HewCFRmffLzQlAonw6dOG?autoplay=true"
+  },
+  {
+    "year": 2001,
+    "title": "Toxicity",
+    "artist": "System of a Down",
+    "genre": "Metal",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn?autoplay=true"
+  },
+  {
+    "year": 2001,
+    "title": "White Blood Cells",
+    "artist": "The White Stripes",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/fb/1d/1cfb1dec-aa4c-1cd7-da73-9d8b27e0ac41/886448798040.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0?autoplay=true"
+  },
+  {
+    "year": 2000,
+    "title": "The Moon & Antarctica",
+    "artist": "Modest Mouse",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/59/59/mzi.iekumrmy.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5SbcupirEParczvqqyUPXL?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "Keep It Like a Secret",
+    "artist": "Built to Spill",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/c9/77/61c97792-b27f-daa4-4b20-e8cbb8a5e2d3/mzi.omlqskll.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "The Lonesome Crowded West",
+    "artist": "Modest Mouse",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/51/33/a751333d-d3ee-98e1-3354-24227766b7a2/21UMGIM39105.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "Wowee Zowee",
+    "artist": "Pavement",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/ee/5c/77ee5c49-87c9-c5c3-0a4a-be42743c916b/744861072263.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/61v8cmSY8KdNa2aOB9e4v6?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "Alien Lanes",
+    "artist": "Guided By Voices",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/40/a2/ad/40a2ad92-9d9d-b826-71cf-61a00bdfa5a1/744861012337.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "genre": "Metal",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/42/5d/b5425d92-410d-9c4b-72b1-d0147bbb01dd/00602567931713.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Crooked Rain, Crooked Rain",
+    "artist": "Pavement",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/6b/1a/476b1afc-452c-909e-a70f-15b055f5e6dc/744861007937.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0AvxX8zXHu408xmPqRd0mN?autoplay=true"
+  },
+  {
+    "year": 2017,
+    "title": "The Underside of Power",
+    "artist": "Algiers",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/75/95/3c75957e-374e-2448-1ef8-7b715937c2ae/744861111764.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6fPhrPeHvSLGU0ku1eN4eP?autoplay=true"
+  },
+  {
+    "year": 2016,
+    "title": "Teens of Denial",
+    "artist": "Car Seat Headrest",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/b3/f6/f6b3f65a-086e-8da1-b93c-7f87cc9f57ae/744861109136.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP?autoplay=true"
+  },
+  {
+    "year": 2014,
+    "title": "They Want My Soul",
+    "artist": "Spoon",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/ff/48/99ff4892-7211-d1e0-522e-5cb4b1c182ee/191401209472.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7oBe4s2OCYUBLixJw3lpFT?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "Contra",
+    "artist": "Vampire Weekend",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/b6/2b/8db62b7a-c9a3-ff47-f494-c729fa8af98e/634904942960.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ?autoplay=true"
+  },
+  {
+    "year": 2010,
+    "title": "Brothers",
+    "artist": "The Black Keys",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/10/b2/d310b243-1412-0944-b80c-cced58de8fc6/075597961386.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v?autoplay=true"
+  },
+  {
+    "year": 2009,
+    "title": "It's Blitz!",
+    "artist": "Yeah Yeah Yeahs",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/97/1f/5c/971f5c92-2def-b4cb-a76e-bc582a396ce3/09UMGIM02469.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj?autoplay=true"
+  },
+  {
+    "year": 2009,
+    "title": "Hospice",
+    "artist": "The Antlers",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/57/3e/e0573efe-8fa6-52be-5ac2-e7952e3fb63d/884385757045.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD?autoplay=true"
+  },
+  {
+    "year": 2008,
+    "title": "Make the Road By Walking",
+    "artist": "Menahan Street Band",
+    "genre": "Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/49/77/89497796-d985-b82f-53b5-22d5bc6882e7/884385894320.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "Costello Music",
+    "artist": "The Fratellis",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/82/10/ea821036-3ef3-da6d-5b98-420968cbf86b/00602498472439.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/50/c7/dd50c790-99ac-d3d0-5ab8-e3891fb8fd52/634904032463.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK?autoplay=true"
+  },
+  {
+    "year": 2007,
+    "title": "Our Love to Admire",
+    "artist": "Interpol",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/eb/f9/35ebf940-837b-b742-d532-e31e02ce2f1b/191401150484.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "Gimme Fiction",
+    "artist": "Spoon",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/80/47/f0804739-9687-fd37-7167-07cb42cfa6c5/744861066064.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3pxmFMtf3MfeBOsHRvpaqt?autoplay=true"
+  },
+  {
+    "year": 2005,
+    "title": "Broken Social Scene",
+    "artist": "Broken Social Scene",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/15/c7/e815c723-ef1b-57be-d9f4-f4b0a9bd93ed/00827590140059.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0y7KfUbof07yf2bHFYdPJZ?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "Antics",
+    "artist": "Interpol",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/89/c9/fa89c99e-21c3-25fc-bbe4-7d9bcfba379d/744861061663.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz?autoplay=true"
+  },
+  {
+    "year": 2004,
+    "title": "Good News for People Who Love Bad News",
+    "artist": "Modest Mouse",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/02/da/f902dad6-7a7e-203a-5648-78e67d42b515/mzi.fcuuybmm.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0?autoplay=true"
+  },
+  {
+    "year": 2003,
+    "title": "Room on Fire",
+    "artist": "The Strokes",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/e9/2a/f7e92a48-0e20-8286-bbbf-80bd85fbb1af/mzi.gcledsjj.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Yankee Hotel Foxtrot",
+    "artist": "Wilco",
+    "genre": "Indie Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/1d/3c/791d3cfe-d1b0-67a9-acbd-559fd83b3401/075597966961.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv?autoplay=true"
+  },
+  {
+    "year": 2002,
+    "title": "Kill The Moonlight",
+    "artist": "Spoon",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b6/81/14/b6811493-0983-809f-419a-ff29778dc8a3/191401149464.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i?autoplay=true"
+  },
+  {
+    "year": 2001,
+    "title": "Comfort Eagle",
+    "artist": "Cake",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/9f/91/ed9f9138-8c79-3a7f-4688-9b54c6657292/074646213223.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "The Fragile",
+    "artist": "Nine Inch Nails",
+    "genre": "Metal",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b2/dc/97/b2dc9774-6889-f953-72f2-bfa17952b332/15UMGIM67682.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "Summerteeth",
+    "artist": "Wilco",
+    "genre": "Indie Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/31/22/e031227f-2d7c-79ae-c4df-7e3c23cbd4db/093624728269.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "Emergency and I",
+    "artist": "The Dismemberment Plan",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m04/d07/h08/s05.tgpmcctm.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "Perfect from Now On",
+    "artist": "Built To Spill",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/48/bb/21/48bb2111-970c-0115-134c-e7c98f2b2499/mzi.kxoduptv.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6DlZzUnITGI5cWGTjIWSBm?autoplay=true"
+  },
+  {
+    "year": 1997,
+    "title": "Mollusk",
+    "artist": "Ween",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3b/1a/c5/3b1ac592-9c7b-a968-a064-af79f0e9d68c/mzi.sigmlzuh.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "Soundtracks For the Blind",
+    "artist": "Swans",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/67/bb/8467bbdd-e2f7-f17e-3f1d-6489aef4d7d0/658457000120_cover.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "The Bends",
+    "artist": "Radiohead",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/a9/5c/1ba95cac-b245-d386-63fb-6b857aa9dce8/634904078065.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Weezer",
+    "artist": "Weezer",
+    "genre": "Alt Rock",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/16/da/d016da24-577e-b584-3a5a-116efb5ca362/16UMGIM52971.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu?autoplay=true"
+  },
+  {
+    "year": 1994,
+    "title": "Theres Nothing Wrong With Love",
+    "artist": "Built to Spill",
+    "genre": "Alt Rock",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a9/e9/dd/a9e9ddb0-9bf0-4e16-7b26-4c582a65e913/s05.iqrwugdd.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6ShLKGsrQk9OHXmEBrXJhd?autoplay=true"
+  },
+  {
+    "year": 2023,
+    "title": "Cartwheel",
+    "artist": "Hotline TNT",
+    "genre": "Shoegaze",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/08/19/e6081904-4c90-0c34-a166-eec663785870/810074423373.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz?autoplay=true"
+  },
+  {
+    "year": 1990,
+    "title": "I Do Not Want What I Haven't Got",
+    "artist": "Sinead O Connor",
+    "genre": "Pop",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/19/3f/fa193fc7-f9cf-c84e-c7ef-77b2fceb3a3e/5054526647565.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "color theory",
+    "artist": "Soccer Mommy",
+    "genre": "Singer/Songwriter",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/41/c1/f641c17a-ba93-7d25-f908-2811d1c22a2b/19CRGIM15802.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez?autoplay=true"
+  },
+  {
+    "year": 2012,
+    "title": "The Idler Wheel Is Wiser than the Driver of the Screw and Whipping Cords Will Serve You More than Ropes Will Ever Do",
+    "artist": "Fiona Apple",
+    "genre": "Singer/Songwriter",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/ce/2e/bece2e46-bd11-389b-bf82-8b647fa50731/886443478671.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa?autoplay=true"
+  },
+  {
+    "year": 2009,
+    "title": "Lungs",
+    "artist": "Florence + The Machine",
+    "genre": "Singer/Songwriter",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/46/45/58/46455821-202f-5fac-ee42-87853cb9fa03/09UMGIM14223.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/6hs55qjerNNOi4ZT5bOhxV?autoplay=true"
+  },
+  {
+    "year": 1999,
+    "title": "When the Pawn...",
+    "artist": "Fiona Apple",
+    "genre": "Singer/Songwriter",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4a/75/0e/4a750e5f-ad9e-2801-885f-40cb36596397/mzi.eyhxnmkd.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI?autoplay=true"
+  },
+  {
+    "year": 1995,
+    "title": "Jagged Little Pill",
+    "artist": "Alanis Morisette",
+    "genre": "Singer/Songwriter",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/4d/04/71/4d0471a5-3bd6-2c5b-a438-3568fcd70e1c/603497885510.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW?autoplay=true"
+  },
+  {
+    "year": 2020,
+    "title": "Fetch the Bolt Cutters",
+    "artist": "Fiona Apple",
+    "genre": "Singer/Songwriter",
+    "rating": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/b8/12/55b81281-ec56-0bc5-5628-030e683ff7c9/886448398486.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
+  },
+  {
+    "year": 2021,
+    "title": "SKA DREAM",
+    "artist": "Jeff Rosenstock",
+    "genre": "Ska",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/0c/83/c60c8301-1939-9d83-1b7b-3f3ff9df9df4/644110044198.png/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "Turn the Radio Off",
+    "artist": "Reel Big Fish",
+    "genre": "Ska",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/bc/b4/04/bcb404b7-68cd-a13f-e71b-5db9e8448961/dj.aiblzanu.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn?autoplay=true"
+  },
+  {
+    "year": 1996,
+    "title": "Sublime",
+    "artist": "Sublime",
+    "genre": "Ska",
+    "rating": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/44/52/c2445270-0ad1-c895-3ab1-24beedd6c422/06UMGIM01498.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+  },
+  {
+    "year": 1995,
+    "title": "Maxinquaye",
+    "artist": "Tricky",
+    "genre": "Trip Hop",
+    "rating": 4.5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/46/8a/da468ae4-2956-89d5-de70-0fce8dcfd572/00731452408921.rgb.jpg/600x600bb.jpg",
+    "link": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8?autoplay=true"
+  }
 ]
