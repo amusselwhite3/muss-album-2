@@ -6,6 +6,7 @@ import albumData from '../albums.json';
 import { Rating } from 'react-simple-star-rating'
 import Album from '../components/album'
 
+
 // Our language strings for the header
 const strings = [
   "Hello React",
@@ -27,7 +28,7 @@ function randomLanguage() {
 * The function in app.jsx defines the page wrapper that this appears in along with the footer
 */
 
-export default function Home() {
+export default function Genres() {
   /* We use state to set the hello string from the array https://reactjs.org/docs/hooks-state.html
      - We'll call setHello when the user clicks to change the string
   */
@@ -61,9 +62,16 @@ export default function Home() {
   }
   return (
     <>
+      <Album genre={"Rock"}></Album>
+      <Album genre={"Electronic"}></Album>
+      <Album genre={"Rap"}></Album>
+      <Album genre={"R&B"}></Album>
+      <Album genre={"Country"}></Album>
+      <Album genre={"Folk"}></Album>
+      <Album genre={"Punk"}></Album>
+      <Album genre={"Jazz"}></Album>
+      <Album genre={"Ska"}></Album>
 
-
-      <Album></Album>
     </>
   );
 }

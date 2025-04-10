@@ -6,14 +6,14 @@ import * as React from "react";
 * This component is attached to the /about path in router.jsx
 */
 
-export default function About() {
+export default function InProgress() {
   /* DECLARE STYLE AND TRIGGER FOR WIGGLE EFFECT FROM TODO ON NEXT LINE */
   
   return (
     <div className="page">
       {/* REPLACE H1 ELEMENT BELOW WITH CODE FROM TODO */}
       <h1 className="title">
-        About this site
+        1991 TODO PAGE
       </h1>
       {/* REPLACE OPENING P TAG BELOW WITH CODE FROM TODO */}
       <p>

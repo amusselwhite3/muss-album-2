@@ -36,7 +36,12 @@ export default function Home() {
         <div className="links">
           <Link href="/">Home</Link>
           <span className="divider">|</span>
+          <Link href="/genres">Listen by Genre</Link>
+          <span className="divider">|</span>
           <Link href="/about">About</Link>
+          <span className="divider">|</span>
+          <Link href="/in-progress">Currently In Progress</Link>
+        
         </div>
         <a
           className="btn--remix"
