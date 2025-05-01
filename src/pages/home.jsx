@@ -32,37 +32,12 @@ export default function Home() {
      - We'll call setHello when the user clicks to change the string
   */
 
-
-  const [currentAlbum, setCurrentAlbum] = React.useState({title: "click me!", art: "https://community.mp3tag.de/uploads/default/original/2X/a/acf3edeb055e7b77114f9e393d1edeeda37e50c9.png"})
-  const [hello, setHello] = React.useState(strings[0]);
-  
-  
   /* The wiggle function defined in /hooks/wiggle.jsx returns the style effect and trigger function
      - We can attach this to events on elements in the page and apply the resulting style
   */
-  const [style, trigger] = useWiggle({ x: 5, y: 5, scale: 1 });
 
-
-  const loadAlbums = () => {
-    console.log(albumData)
-    const loadedData = JSON.stringify(albumData);
-    const json = JSON.parse(loadedData);
-    const randomNumber = Math.floor(Math.random() * json.length);
-    setCurrentAlbum(json[randomNumber])
-  }
-
-  // When the user clicks we change the header language
-  const handleChangeHello = () => {    
-    loadAlbums()
-  };
-
-  const launchSpotify = () => {
-    window.open(currentAlbum.link);
-  }
   return (
     <>
-
-
       <Album></Album>
     </>
   );

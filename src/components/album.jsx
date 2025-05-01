@@ -3,6 +3,8 @@ import { animated } from "react-spring";
 import { useWiggle } from "../hooks/wiggle";
 import { Link } from "wouter";
 import albumData from '../albums.json';
+import currentData from '../2025.json';
+
 import { Rating } from 'react-simple-star-rating'
 
 
@@ -26,6 +28,15 @@ const Album = props => {
      - We can attach this to events on elements in the page and apply the resulting style
   */
   const [style, trigger] = useWiggle({ x: 5, y: 5, scale: 1 });
+
+  const loadNewAlbums = () => {
+    console.log(albumData)
+    const loadedData = JSON.stringify(currentData);
+    const json = JSON.parse(loadedData);
+
+    const randomNumber = Math.floor(Math.random() * json.length);
+    setCurrentAlbum(json[randomNumber])
+  }
 
 
   const loadAlbums = () => {
@@ -55,6 +66,8 @@ const Album = props => {
 
     if (props.genre) {
         loadGenreAlbum(props.genre)
+    } else if (props.current) {
+        loadNewAlbums()
     } else {
         loadAlbums()
     }

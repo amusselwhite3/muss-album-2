@@ -4,7 +4,8 @@ import Home from "../pages/home";
 import About from "../pages/about";
 import InProgress from "../pages/in-progress"
 import Genres from "../pages/genres"
-
+import ListeningTo from "../pages/listening-to-right-now";
+import Playlists from "../pages/playlists";
 /**
 * The router is imported in app.jsx
 *
@@ -19,5 +20,8 @@ export default () => (
       <Route path="/about" component={About} />
       <Route path="/in-progress" component={InProgress} />
       <Route path="/genres" component={Genres} />
+      <Route path="/playlists" component={Playlists} />
+      <Route path="/listening-to" component={ListeningTo} />
+
     </Switch>
 );

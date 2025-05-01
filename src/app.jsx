@@ -41,7 +41,10 @@ export default function Home() {
           <Link href="/about">About</Link>
           <span className="divider">|</span>
           <Link href="/in-progress">Currently In Progress</Link>
-        
+          <span className="divider">|</span>
+          <Link href="/playlists">Playlists</Link>
+          <span className="divider">|</span>
+          <Link href="/listening-to">What I'm Listening To</Link>
         </div>
         <a
           className="btn--remix"
